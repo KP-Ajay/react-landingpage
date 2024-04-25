@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/githu.io/react-landingpage/static/css/main.993fc793.css",
+    "main.js": "/githu.io/react-landingpage/static/js/main.1f81d7dc.js",
+    "static/js/453.7fbec0ce.chunk.js": "/githu.io/react-landingpage/static/js/453.7fbec0ce.chunk.js",
+    "static/media/story-2.png": "/githu.io/react-landingpage/static/media/story-2.b82d280fc763d862f535.png",
+    "static/media/story-1.png": "/githu.io/react-landingpage/static/media/story-1.d8696cd088877013fc46.png",
+    "static/media/story-3.png": "/githu.io/react-landingpage/static/media/story-3.19d60355d4c20a7489c2.png",
+    "static/media/dubai.png": "/githu.io/react-landingpage/static/media/dubai.5d3877faca87f7564f33.png",
+    "static/media/new-delhi.png": "/githu.io/react-landingpage/static/media/new-delhi.97f4ef96618ba67a195d.png",
+    "static/media/paris.png": "/githu.io/react-landingpage/static/media/paris.10ad821700eecaacec10.png",
+    "static/media/new-york.png": "/githu.io/react-landingpage/static/media/new-york.0e5084a7905113ad9c41.png",
+    "static/media/image-2.png": "/githu.io/react-landingpage/static/media/image-2.9be229691ed1c8d145a9.png",
+    "static/media/image-4.png": "/githu.io/react-landingpage/static/media/image-4.25d3deb975c1ae9f43ef.png",
+    "static/media/image-3.png": "/githu.io/react-landingpage/static/media/image-3.f67aa19f70e198219688.png",
+    "static/media/image-8.png": "/githu.io/react-landingpage/static/media/image-8.ec9cc06c5eb709071dec.png",
+    "static/media/image-7.png": "/githu.io/react-landingpage/static/media/image-7.1de89b4939f73f0ed117.png",
+    "static/media/image-5.png": "/githu.io/react-landingpage/static/media/image-5.4117bf597b51853160da.png",
+    "static/media/image-6.png": "/githu.io/react-landingpage/static/media/image-6.8bb34d57cc4b9c716a6d.png",
+    "static/media/image-9.png": "/githu.io/react-landingpage/static/media/image-9.7c75d3ef83192472d889.png",
+    "static/media/image-10.png": "/githu.io/react-landingpage/static/media/image-10.4e5a6b3df15f21596ac3.png",
+    "static/media/image-1.png": "/githu.io/react-landingpage/static/media/image-1.1a51d80f72475ddaf25f.png",
+    "index.html": "/githu.io/react-landingpage/index.html",
+    "main.993fc793.css.map": "/githu.io/react-landingpage/static/css/main.993fc793.css.map",
+    "main.1f81d7dc.js.map": "/githu.io/react-landingpage/static/js/main.1f81d7dc.js.map",
+    "453.7fbec0ce.chunk.js.map": "/githu.io/react-landingpage/static/js/453.7fbec0ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.993fc793.css",
+    "static/js/main.1f81d7dc.js"
+  ]
+}
